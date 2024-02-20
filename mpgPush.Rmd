@@ -1,0 +1,14 @@
+---
+title: "mpgPush"
+author: "Aileen McDonald"
+output: html_document
+date: "2024-02-20"
+---
+
+```{r}
+library(tidyverse)
+
+head(mpg)
+
+```
+
